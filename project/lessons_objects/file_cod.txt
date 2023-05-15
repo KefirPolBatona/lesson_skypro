@@ -1,0 +1,3 @@
+evgeni@evgeni-VirtualBox:~$ ls /usr/sbin/ | grep user | sort > /home/evgeni/user_cmd.txt
+evgeni@evgeni-VirtualBox:~$ ls /usr/bin/ | grep user >> /home/evgeni/user_cmd.txt
+evgeni@evgeni-VirtualBox:~$ sort /home/evgeni/user_cmd.txt
